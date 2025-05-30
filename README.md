@@ -14,12 +14,10 @@ A simple React Summarizer boilerplate interacting with local models
 
 ```
 npm install
-
 ```
 
 4. Run the Development server
 
 ```
 npm run dev
-
 ```
