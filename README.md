@@ -21,3 +21,11 @@ npm install
 ```
 npm run dev
 ```
+
+## API 
+
+The app uses placeholder api for now (https://swapi.dev/)
+
+After Starting the Development server, in the input box, try inserting the number between 1-80
+
+
