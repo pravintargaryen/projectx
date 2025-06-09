@@ -39,10 +39,12 @@ python -m venv venv
 source venv/bin/activate  # or .\venv\Scripts\activate on Windows
 pip install -r requirements.txt
 uvicorn app.main:app --reload
+```
+
 
 ### Make sure Ollama is installed and a model is running:
 
-```
+```bash
 ollama run mistral  # or any supported model
 ```
 
