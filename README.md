@@ -48,7 +48,7 @@ ollama run mistral  # or any supported model
 
 ### **Frontend (React)**
 
-```
+```bash
 cd frontend
 npm install
 npm run dev
